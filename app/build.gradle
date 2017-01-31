@@ -10,7 +10,9 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        applicationId "id.sch.smktelkom_mlg.learn.recyclerview2"
     }
+
     buildTypes {
         release {
             minifyEnabled false
